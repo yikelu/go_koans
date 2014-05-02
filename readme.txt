@@ -1,3 +1,5 @@
+NOTE -- these are my personal solutions.
+
 Use the following command to run the koans.
 
 # run.sh
